@@ -76,7 +76,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Araro's GitHub Stats" src="https://github-readme-stats.araro.vercel.app/api?username=Araro&show_icons=true&hide_border=true" />
+  [![Araro's GitHub stats](https://github-readme-stats.vercel.app/api?username=araro)](https://github.com/araro/github-readme-stats)
 
 </details>
 
