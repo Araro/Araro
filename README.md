@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=banarysource.com&style=for-the-badge&up_message=Up&url=https%3A%2F%2Fbanarysource.com%2F)](https://banarysource.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/AraroMeca?color=blue&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAraroMeca&screen_name=AraroMeca)
 
-## I'm a Husband, Father, Developer, and Teacher!
+## I'm a Dreamer, Developer, and Professor!
 
 - 🔭 I just launched my first course: [¡Arma tu propio robot!][course]!
 - 🌱 I’m currently learning everything 🤣
@@ -40,7 +40,6 @@
 [<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/Araro/Araro/master/assets/Python.png" />][python]
 [<img align="left" alt="MATLAB" width="60px" src="https://raw.githubusercontent.com/Araro/Araro/master/assets/Matlab.jpeg" />][matlab]
 
-<br />
 <br />
 
 ---
