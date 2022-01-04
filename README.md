@@ -45,6 +45,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Somos Banary Source](https://www.youtube.com/watch?v=BMJce03VYKc)
+- [¡Arma tu propio robot! | Siguiendo una ruta | Reto 2.1](https://www.youtube.com/watch?v=GqDPSPhImOk)
+- [Cambio de imagen | Banary Source](https://www.youtube.com/watch?v=zHDecJLOrEg)
+- [¡Arma tu propio robot! | Control de velocidad | Lección 2.5](https://www.youtube.com/watch?v=SXRne3suGJ0)
+- [David Cuartielles | Entrevista | Arduino, toda una aventura](https://www.youtube.com/watch?v=ibTVaPVymx8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/banarysource)
