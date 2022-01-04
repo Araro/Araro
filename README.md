@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Husband, Father, Developer, and Teacher!
 
 - 🔭 I just launched my first course: [¡Arma tu propio robot!][course]!
 - 🌱 I’m currently learning everything 🤣
@@ -94,12 +94,10 @@
 </details>
 
 [website]: https://banarysource.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/banarysource
+[course]: https://banarysource.com/tito-robot/
+[twitter]: https://twitter.com/araromeca
 [youtube]: https://youtube.com/banarysource
-[instagram]: https://instagram.com/banarysource
+[instagram]: https://instagram.com/araromeca
 [linkedin]: https://linkedin.com/in/eric-gonzalez-vallejo
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[titorobotplaylist]: https://www.youtube.com/playlist?list=PLTlmL5Wcs_T1LyrWr-DWC4RadV4PJ5wkW
+
